@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rinatiou.github.io/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/app/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/assets/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/css/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/data/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/includes/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/item/sitemap.rinatiou.gz
+Sitemap: https://rinatiou.github.io/src/sitemap.rinatiou.gz
